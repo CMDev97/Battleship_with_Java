@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Battleship with Java/*
+!/Battleship with Java/task/
+/Battleship with Java/task/*
+!/Battleship with Java/task/src
+
+# Project exclude paths
+/Topics/Adding annotations/Creating and invoking methods in Animal and Dog classes/out/
+/Topics/Adding annotations/Creating and invoking methods in Animal and Dog classes/out/production/classes/
